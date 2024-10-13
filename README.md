@@ -1,9 +1,9 @@
-## Supplemental material for paper: "Fair-mod: Fair Modular Community Detection"
+# Supplemental material for paper: "Fair-mod: Fair Modular Community Detection"
 Supplemental material for paper "Fair-mod: Fair Modular Community Detection", to be published in the proceedings for Complex Networks and their Applications 2024. Publication available here: <>.
 
 This repository contains the implementation of the Fair-mod modularity-based community detection algorithm, with a weighted balance-based fairness. The implementation is based on the source code for Louvain community detection found in the NetworkX library, see source code here: (https://networkx.org/documentation/stable/_modules/networkx/algorithms/community/louvain.html). 
 
-# Usage
+## Usage
 The algorithm expects as input a NetworkX graph object. The graph should be undirected (directed graphs are not currently supported), and the sensitive attribute S for the graph should be coded as a node attribute named `color`, taking either of two values: `red` or `blue`. Future versions will address the limitations of the implementation.
 
 The repository also includes:
