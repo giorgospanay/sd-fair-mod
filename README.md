@@ -11,6 +11,6 @@ The repository also includes:
 * `s_fair_sc.py`: Code for the Scalable Fair Spectral Clustering (sFairSC) algorithm, translated from the original MATLAB version of the code in https://github.com/jiiwang/scalable_fair_spectral_clustering. Credit for the algorithm goes to the original authors:
 
 <a id="1">[1]</a> 
-Ji Wang et al. (2023)
-Scalable Spectral Clustering with Group Fairness Constraints
-Proceedings of The 26th International Conference on Artificial Intelligence and Statistics
+Ji Wang et al. (2023).
+Scalable Spectral Clustering with Group Fairness Constraints.
+Proceedings of The 26th International Conference on Artificial Intelligence and Statistics.
