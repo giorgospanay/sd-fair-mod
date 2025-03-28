@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Fair-mod: Fair Modular Community Detection'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Georgios
+    family-names: Panayiotou
+    email: georgios.panayiotou@it.uu.se
+    orcid: 'https://orcid.org/0009-0002-3907-3189'
+  - given-names: Matteo
+    family-names: Magnani
+    email: matteo.magnani@it.uu.se
+    orcid: 'https://orcid.org/0000-0002-3437-9018'
+identifiers:
+  - type: doi
+    value: 10.1007/978-3-031-82435-7_8
+  - type: url
+    value: >-
+      https://link.springer.com/chapter/10.1007/978-3-031-82435-7_8
+license: BSD-3-Clause-Attribution
